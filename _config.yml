@@ -1,16 +1,16 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
-url:            "https://chesterhow.github.io"
+title:          Shuping Fang's blog
+description:    "记录日常点滴"
+url:            "https://shupingfang.github.io"
 
 # Google Analytics
-google_analytics: UA—XXXXXXXX-X
+#google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         Shuping Fang
+  url:          https://shupingfang.github.io
+  email:        shupingfang0415@gmail.com
 
 # Build settings
 markdown:       kramdown
@@ -34,7 +34,7 @@ permalink:      /:year-:month-:day/:title
 paginate:       5
 
 # Excludes
-exclude: [ Gemfile, Gemfile.lock, tale.gemspec ]
+exclude: [ Gemfile, Gemfile.lock]
 
 # Disqus (Set to your disqus id)
-disqus:         jekyll-tale
+disqus:         shupingfang
