@@ -71,6 +71,6 @@ excerpt: Vladimir Khorikov
 这种方式的一个好处是，可以快速的建立一个项目范围的测试指南，即，每个类均对应一个测试类。<br>
 <img src="/assets/imgs/14.jpg" width="100%" alt="AltText" />
 如下例，如果该场景是用classical方式组织，则是：
-<img src="/assets/imgs/15.jpg" width="100%" alt="AltText" />
+<img src="/assets/imgs/15.png" width="100%" alt="AltText" />
 如果该场景用London方式组织，则是：
 <img src="/assets/imgs/16.png" width="100%" alt="AltText" />
