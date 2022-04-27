@@ -65,12 +65,13 @@ excerpt: Vladimir Khorikov
 - 验证一小段代码
 - 很快的执行完
 - 以独立的方式运行<br>
+
 单元测试分为两个流派：classical派和London派。<br>
 (1)London派<br>
 要求被测系统和其合作者隔离开来，即，如果一个类依赖于另一个或多个类，则需要用测试替身替换所有此依赖项，这样你可以通过将其行为与任何外部影响分开来而专门关注被测类。<br>
 这种方式的一个好处是，可以快速的建立一个项目范围的测试指南，即，每个类均对应一个测试类。<br>
-<img src="/assets/imgs/14.jpg" width="100%" alt="AltText" />
+<img src="/assets/imgs/14.jpg" width="85%" alt="AltText" />
 如下例，如果该场景是用classical方式组织，则是：
-<img src="/assets/imgs/15.png" width="100%" alt="AltText" />
+<img src="/assets/imgs/15.png" width="85%" alt="AltText" />
 如果该场景用London方式组织，则是：
 <img src="/assets/imgs/16.png" width="85%" alt="AltText" />
